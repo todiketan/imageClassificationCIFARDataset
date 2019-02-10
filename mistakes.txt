@@ -1,0 +1,4 @@
+con2d_maxpool - The structure is fine, but bias and non-linear activation are missing
+fully_conn - Non-linear activation function at the end is missing
+print_stats - using wrong data set for calculating the validation error
+hyperparameters - Properly tune the hyperparameters
